@@ -62,6 +62,3 @@ _These are recommended questions to practice after you have studied for the topi
 - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 - [Encode and Decode Strings (LeetCode Premium)](https://leetcode.com/problems/encode-and-decode-strings/)
 
-testing
-
-test1
